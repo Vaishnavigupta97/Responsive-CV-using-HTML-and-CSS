@@ -1,2 +1,2 @@
-# Responsive-CV-using-HTML-and-CSS
-My first website 
+This is my  first Webpage that I have ever created.
+This is a responsive resume made with help of HTML and CSS.
